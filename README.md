@@ -19,7 +19,6 @@
 [DDD concepts explained very short - good examples](https://dzone.com/refcardz/getting-started-domain-driven  
 )  
 [Cockburn on Hexagonal Architecture ](http://alistair.cockburn.us/Hexagonal+architecture)
-
 [Uncle Bob on Hexagonal Architectue]( https://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 ### Microservices
 [Getting started with microservices - Arun Gupta](https://dzone.com/refcardz/getting-started-with-microservices)  
