@@ -23,6 +23,9 @@
 [Cockburn on Hexagonal Architecture](http://alistair.cockburn.us/Hexagonal+architecture)
 
 [Uncle Bob on Hexagonal Architectue](https://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+
+[Another good article on architecture](http://blog.ploeh.dk/2013/12/03/layers-onions-ports-adapters-its-all-the-same/)
+
 ### Microservices
 [Getting started with microservices - Arun Gupta](https://dzone.com/refcardz/getting-started-with-microservices)  
 [Transaction challenges - distributed architecture](http://qed.dk/jeppe-cramon/2014/02/24/microservices-det-er-ikke-kun-stoerrelsen-det-er-vigtigt-det-er-ogsaa-hvordan-du-bruger-dem-del-1/)  
