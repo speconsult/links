@@ -16,10 +16,9 @@
 [DDD med Java EE 6 - Adam Bien](http://www.javaworld.com/article/2078042/java-app-dev/domain-driven-design-with-java-ee-6.html)  
 [Eric Evans DomainLanguage website](https://domainlanguage.com)  
 [DDD Community](http://dddcommunity.org)
-[DDD concepts explained very short - good examples](https://dzone.com/refcardz/getting-started-domain-driven  
-)  
-[Cockburn on Hexagonal Architecture ](http://alistair.cockburn.us/Hexagonal+architecture)
-[Uncle Bob on Hexagonal Architectue]( https://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+[DDD concepts explained very short - good examples](https://dzone.com/refcardz/getting-started-domain-driven)  
+[Cockburn on Hexagonal Architecture](http://alistair.cockburn.us/Hexagonal+architecture)
+[Uncle Bob on Hexagonal Architectue](https://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 ### Microservices
 [Getting started with microservices - Arun Gupta](https://dzone.com/refcardz/getting-started-with-microservices)  
 [Transaction challenges - distributed architecture](http://qed.dk/jeppe-cramon/2014/02/24/microservices-det-er-ikke-kun-stoerrelsen-det-er-vigtigt-det-er-ogsaa-hvordan-du-bruger-dem-del-1/)  
