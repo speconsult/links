@@ -8,6 +8,7 @@
 ### Not categorized
 [Big ball of mud](http://www.laputan.org/mud/mud.html)  
 [The danger of using ObjectMessage in JMS](http://jmesnil.net/weblog/2012/07/27/on-jms-objectmessage-and-its-pitfalls/)  
+[Martin Fowler on different types of architecture] (http://martinfowler.com/tags/application%20architecture.html)
 
 ### DDD
 [DDD Implementeret med JEE7 (Cargo Tracker)](https://cargotracker.java.net) -
