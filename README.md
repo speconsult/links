@@ -10,6 +10,10 @@
 [The danger of using ObjectMessage in JMS](http://jmesnil.net/weblog/2012/07/27/on-jms-objectmessage-and-its-pitfalls/)  
 [Martin Fowler on different types of architecture] (http://martinfowler.com/tags/application%20architecture.html)
 
+### Event Sourcing
+[Greg Youngs page on InfoQ] (http://www.infoq.com/author/Greg-Young)
+
+
 ### DDD
 [DDD Implementeret med JEE7 (Cargo Tracker)](https://cargotracker.java.net) -
   [Characterization](https://java.net/projects/cargotracker/pages/Characterization)-
