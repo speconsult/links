@@ -30,6 +30,8 @@
 
 [Code + extras for the above] (https://github.com/cer/event-sourcing-examples)
 
+[Don't know exactly with this one, but is has some code :-) ] (https://lostechies.com/gabrielschenker/2015/07/13/event-sourcing-applied-the-repository/)
+
 ### Microservices
 [Getting started with microservices - Arun Gupta](https://dzone.com/refcardz/getting-started-with-microservices)  
 [Transaction challenges - distributed architecture](http://qed.dk/jeppe-cramon/2014/02/24/microservices-det-er-ikke-kun-stoerrelsen-det-er-vigtigt-det-er-ogsaa-hvordan-du-bruger-dem-del-1/)  
