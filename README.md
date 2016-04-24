@@ -26,6 +26,10 @@
 
 [Another good article on architecture](http://blog.ploeh.dk/2013/12/03/layers-onions-ports-adapters-its-all-the-same/)
 
+[Event sourcing + CQRS] (https://plainoldobjects.com/presentations/building-and-deploying-microservices-with-event-sourcing-cqrs-and-docker/)
+
+[Code + extras for the above] (https://github.com/cer/event-sourcing-examples)
+
 ### Microservices
 [Getting started with microservices - Arun Gupta](https://dzone.com/refcardz/getting-started-with-microservices)  
 [Transaction challenges - distributed architecture](http://qed.dk/jeppe-cramon/2014/02/24/microservices-det-er-ikke-kun-stoerrelsen-det-er-vigtigt-det-er-ogsaa-hvordan-du-bruger-dem-del-1/)  
